@@ -1,5 +1,6 @@
 #please create a file in replit called "keep_alive.py" by going to "files" and pressing the forder like icon..aftet that,
 #go to the code i made named "keep_alive.py"thats where you will find the code to put into the "keep_alive.py"file you created on replit :) 
+import discord
 from keep_alive import keep_alive
 from discord.ext import commands
 import os
